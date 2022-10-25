@@ -1,0 +1,6 @@
+usu=input("Informe seu usuario:\n")
+senha=input("Informe sua senha:\n")
+while (senha == usu):
+    print ("senha invalida!!\n")
+    usu=input("Informe seu usuario:\n")
+    senha=input("Informe sua senha:\n")
